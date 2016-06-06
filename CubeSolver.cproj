@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BF6C946E-2E64-44D6-AA8F-EEACA0C13C7E}</ProjectGuid>
+    <ProjectGuid>{2DDE4692-EBEC-4F60-9BD5-D00EA828E766}</ProjectGuid>
     <Compiler>
-      <Compiler ctype="GccCompiler" xmlns="" />
+      <Compiler ctype="GppCompiler" />
     </Compiler>
-    <Language>C</Language>
+    <Language>CPP</Language>
     <Target>Bin</Target>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
